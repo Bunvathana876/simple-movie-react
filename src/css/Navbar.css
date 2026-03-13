@@ -1,0 +1,79 @@
+nav {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  background-color: #d2d2d2a7;
+  color: #fff;
+  height: 65px;
+}
+a {
+  text-decoration: none;
+  font-weight: bold;
+}
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  text-decoration: none;
+  color: rgb(106, 18, 106);
+  font-size: 30px;
+  font-weight: bold;
+  white-space: nowrap;
+}
+.logo-icon {
+  font-size: 40px;
+  flex-shrink: 0;
+}
+.search {
+  margin: 15px;
+  display: flex;
+  padding: 5px 10px;
+  align-items: center;
+  gap: 10px;
+}
+.search-icon {
+  width: 50px;
+  height: 30px;
+}
+.nav-link {
+  display: flex;
+  list-style: none;
+  gap: 40px;
+}
+.nav-link a {
+  text-decoration: none;
+  color: black;
+  font-weight: 600;
+  padding: 15px 20px;
+}
+.nav-link a:hover {
+  background-color: #d2d2d282;
+  color: rgb(106, 18, 106);
+  border-radius: 5px;
+}
+.search-icon {
+  width: 50px;
+  height: 30px;
+  color: black;
+}
+.login {
+  padding: 10px 20px;
+  background-color: #1e45cfdd;
+  color: rgb(255, 255, 255);
+  border-radius: 5px;
+  font-weight: bold;
+}
+.search-btn {
+  border: none;
+  background-color: transparent;
+}
+.search-input {
+  height: 30px;
+  width: 400px;
+  padding: 8px 12px;
+  border: 1px solid #ccc;
+  border-radius: 20px;
+  outline: none;
+}

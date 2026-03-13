@@ -1,0 +1,32 @@
+
+
+.movie-card {
+  margin-bottom: 15px;
+  margin-top: 15px;
+  width: 240px;
+  background: white;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.movie-img {
+  width: 100%;
+  height: 350px;
+  object-fit: cover;
+}
+
+.movie-list p{
+    text-align: start;
+    margin: 12px;
+}
+
+.movie-title {
+  font-size: 20px;
+  margin: 12px;
+}
+
+.movie-date {
+  margin: 0 12px 12px;
+  color: #666;
+}
