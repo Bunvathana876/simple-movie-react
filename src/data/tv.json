@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "type": "tv",
+      "title": "Release that Witch",
+      "releaseDate": "Released: 2026-03-03"
+    },
+    {
+      "id": 2,
+      "type": "tv",
+      "title": "Rooster",
+      "releaseDate": "Released: 2026-03-08"
+    },
+    {
+      "id": 3,
+      "type": "tv",
+      "title": "The Surgeon",
+      "releaseDate": "Released: 2026-02-18"
+    },
+    {
+      "id": 4,
+      "type": "tv",
+      "title": "Breaking Bad",
+      "releaseDate": "Released: 2008-01-20"
+    },
+    {
+      "id": 5,
+      "type": "tv",
+      "title": "Game of Thrones",
+      "releaseDate": "Released: 2011-04-17"
+    }
+]

@@ -14,10 +14,10 @@ function Navbar() {
       </a>
       <ul className="nav-link">
         <li>
-          <a href="#">Home</a>
+          <a href="/home">Home</a>
         </li>
         <li>
-          <a href="#">Movie</a>
+          <a href="/movies">Movie</a>
         </li>
         <li>
           <a href="#">Tv Show</a>
