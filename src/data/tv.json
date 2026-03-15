@@ -1,32 +1,62 @@
 [
-    {
-      "id": 1,
+  {
+    "id": 1,
+    "type": "tv",
+    "title": "Release that Witch",
+    "releaseDate": "Released: 2026-03-03"
+  },
+  {
+    "id": 2,
+    "type": "tv",
+    "title": "Rooster",
+    "releaseDate": "Released: 2026-03-08"
+  },
+  {
+    "id": 3,
+    "type": "tv",
+    "title": "The Surgeon",
+    "releaseDate": "Released: 2026-02-18"
+  },
+  {
+    "id": 4,
+    "type": "tv",
+    "title": "Breaking Bad",
+    "releaseDate": "Released: 2008-01-20"
+  },
+  {
+    "id": 5,
+    "type": "tv",
+    "title": "Game of Thrones",
+    "releaseDate": "Released: 2011-04-17"
+  },
+  {
+      "id": 6,
       "type": "tv",
-      "title": "Release that Witch",
-      "releaseDate": "Released: 2026-03-03"
+      "title": "Chernobyl",
+      "releaseDate": "Released: 2019-05-06"
     },
     {
-      "id": 2,
+      "id": 7,
       "type": "tv",
-      "title": "Rooster",
-      "releaseDate": "Released: 2026-03-08"
+      "title": "Batman: The Animated Series",
+      "releaseDate": "Released: 1992-09-05"
     },
     {
-      "id": 3,
+      "id": 8,
       "type": "tv",
-      "title": "The Surgeon",
-      "releaseDate": "Released: 2026-02-18"
+      "title": "Better Call Saul",
+      "releaseDate": "Released: 2015-02-08"
     },
     {
-      "id": 4,
+      "id": 9,
       "type": "tv",
-      "title": "Breaking Bad",
-      "releaseDate": "Released: 2008-01-20"
+      "title": "Sherlock",
+      "releaseDate": "Released: 2010-07-25"
     },
     {
-      "id": 5,
+      "id": 10,
       "type": "tv",
-      "title": "Game of Thrones",
-      "releaseDate": "Released: 2011-04-17"
+      "title": "The Office",
+      "releaseDate": "Released: 2005-03-24"
     }
 ]

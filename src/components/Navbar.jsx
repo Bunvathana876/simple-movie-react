@@ -20,7 +20,7 @@ function Navbar() {
           <a href="/movies">Movie</a>
         </li>
         <li>
-          <a href="#">Tv Show</a>
+          <a href="/Tv">Tv Show</a>
         </li>
         <li>
           <a href="#">Primiun</a>
